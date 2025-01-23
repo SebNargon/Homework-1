@@ -1,0 +1,6 @@
+print("First line of code")
+print("2+2")
+print("=")
+print("4")
+print("or")
+print(2+2)
